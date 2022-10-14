@@ -21,6 +21,16 @@
 - 本模块针对865/870适配，但是理论上大部分MIUI13机型应该通用
 - 本模块在MIUI13 Android12/13 小米10Ultra 基带版本2.5.c1上测试通过
 
+## 下载
+- Github Releases: https://github.com/Xposed-Modules-Repo/com.weverses.modempro/releases/
+- Xposed Modules Repo: https://modules.lsposed.org/module/com.weverses.modempro
+- Github Action: https://github.com/Weverses/ModemPro/actions
+
+## 主仓库
+- 源码
+[ModemPro](https://github.com/Weverses/ModemPro)
+
+
 ## 第三方开源引用
 - GNU Lesser General Public License v2.1
 [577fkj/blockmiui](https://github.com/577fkj/blockmiui)  
