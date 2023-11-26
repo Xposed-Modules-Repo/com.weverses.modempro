@@ -2,7 +2,7 @@
 
 # ModemPro 基带进化
 
-这是一个适用于MIUI 13/14的基带增强型Xposed模块
+这是一个适用于MIUI 13/14/HyperOS的基带增强型Xposed模块
 
 <a href="https://github.com/Weverses/ModemPro/actions"><img alt="Android CI" src="https://github.com/Weverses/ModemPro/workflows/Android%20CI/badge.svg"></a> <a href="https://github.com/Xposed-Modules-Repo/com.weverses.modempro/releases/"><img alt="Github Releases" src="https://img.shields.io/github/v/release/Xposed-Modules-Repo/com.weverses.modempro"></a> <a href="https://github.com/Xposed-Modules-Repo/com.weverses.modempro/releases"><img alt="GitHub all releases" src="https://img.shields.io/github/downloads/Xposed-Modules-Repo/com.weverses.modempro/total?label=Downloads"></a> <a href="https://github.com/Weverses/ModemPro/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Weverses/ModemPro"></a> <a href="https://github.com/Weverses/ModemPro/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Weverses/ModemPro"></a> <a href="https://github.com/Weverses/ModemPro/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Weverses/ModemPro"></a>
 
@@ -19,12 +19,15 @@
 - 无视白名单开启郊野网络场景优化
 - 全局开启5G双卡数据并发
 - 全局开启5G双卡数据辅助
+- 智能双卡并发无视 频段限制
+- 关闭视频彩铃
+- 智能互转
 
 ## 设备/系统要求
 - 是小米/Redmi手机，非sgsi/gsi
 - Android版本≥12, MIUI版本≥13
 - 双卡5G支持需要使用骁龙865/870机型方可开启
-- 智能双卡...全局5G双卡数据并发等功能需要使用小米13系列机型方可使用
+- 智能双卡...全局5G双卡数据并发等功能需要HyperOS方可使用
 
 ## 使用方法
 - 在LSPosed仓库内下载并安装
